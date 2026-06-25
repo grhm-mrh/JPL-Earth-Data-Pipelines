@@ -7,8 +7,8 @@ Description:
     metadata (projections/geotransforms), and convert band data into NumPy 
     arrays for downstream statistical processing.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: [M. Graham]
+Date: [06/24/2024]
 """
 
 import os
