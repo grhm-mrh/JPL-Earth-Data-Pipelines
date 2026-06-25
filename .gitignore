@@ -1,3 +1,22 @@
+# Ignore data files
+*.nc4
+*.tif
+*.csv
+/data/raw/*
+/data/processed/*
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+
+
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
