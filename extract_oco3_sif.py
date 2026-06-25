@@ -7,8 +7,8 @@ Description:
     and SIF values, converting them from multi-dimensional arrays into flat, 
     consolidated tabular formats (CSV) for easier geospatial analysis.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: [M.Graham]
+Date: [06/24/2026]
 """
 
 import os
